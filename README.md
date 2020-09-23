@@ -35,7 +35,7 @@ Implementation:
 
 <h3>Work flow</h3>
   <ul>
-  <li> first we performed split on every geners get a view on all genres that are available</li>
+  <li> first we performed split on every geners to get a view on all genres</li>
   <li> then we used word cloud to display all the geners that are available</li>
   <li>we ignored the timestamp field since it's not going to improve the recommendation</li>
   <li> we sorted out the number of people who voted and the maximum rating given to a movie</li>
