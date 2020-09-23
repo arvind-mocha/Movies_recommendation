@@ -32,7 +32,8 @@ Implementation:
   <p>This type of recommendation systems, takes in a movie that a user currently likes as input. 
   Then it analyzes the contents of the movie to find out other movies which have similar content. 
   Then it ranks similar movies according to their similarity scores and recommends the most relevant movies to the user.</p>
-  
+
+<h3>Work flow</h3>
   <ul>
   <li> first we performed split on every geners get a view on all genres that are available</li>
   <li> then we used word cloud to display all the geners that are available</li>
