@@ -18,10 +18,10 @@
 </ol>
 <h3>fields present in our ratings dataset:<h3>
  <ol>
-    userId
-    movieid
-    ratings
-    timestamp
+    <li>userId</li>
+   <li>movieid</li>
+   <li>ratings</li>
+   <li>timestamp</li>
  </ol>
     
  The field movieId is available in both the datasets which helps us to perform merge so that we can find the maximum rated movie among all movies
