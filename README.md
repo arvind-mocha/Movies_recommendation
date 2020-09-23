@@ -36,6 +36,7 @@ Implementation:
   <ul>
   <li> first we performed split on every geners get a view on all genres that are available</li>
   <li> then we used word cloud to display all the geners that are available</li>
+  <li>we ignored the timestamp field since it's not going to improve the recommendation</li>
   <li> we sorted out the number of people who voted and the maximum rating given to a movie</li>
   <li>then we displayed the top 20 movies based on the highest rating they have secured</li> 
   <li>then we displayed the top 20 movies based on the number of people voted</li>
