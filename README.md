@@ -1,19 +1,20 @@
 # Movies_recommendation_system
-Team Name : Steep Walkers
+<h1>Team Name</h1> : Steep Walkers
 
-Dataset : Movies and Ratings
+<h1>Dataset</h1> : Movies and Ratings
 
-Team Members:
-  Arvind Nachiappan 
-  Jeffery
-  keerthana
-  
-About dataset:
-  fields present in our Movies dataset
-    1.movieId
-    2.title of the movie
-    3.genres of the movie
-  
+<ul><h1>Team Members:</h1>
+  <li>Arvind Nachiappan<li> 
+  <li>Jeffery</li>
+  <li>keerthana</li>
+</ul>
+<h1>About dataset:</h1>
+<ol>
+<h3>fields present in our Movies dataset</h3>
+    <li>movieId</li>
+    <li>title of the movie</li>
+    <li>genres of the movie</li>
+</ol>
   fields present in our ratings dataset:
     1.userId
     2.movieid
